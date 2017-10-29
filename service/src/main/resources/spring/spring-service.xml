@@ -1,0 +1,23 @@
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+    <!--<bean id="hubschool-ehCacheMBeanRegistration"-->
+    <!--class="org.springframework.beans.factory.config.MethodInvokingFactoryBean">-->
+    <!--<property name="staticMethod"-->
+    <!--value="net.sf.ehcache.management.ManagementService.registerMBeans"/>-->
+    <!--<property name="arguments">-->
+    <!--<list>-->
+    <!--<ref bean="ehcache"/>-->
+    <!--<ref bean="mbeanServer"/>-->
+    <!--<value>true</value>-->
+    <!--<value>true</value>-->
+    <!--<value>true</value>-->
+    <!--<value>true</value>-->
+    <!--</list>-->
+    <!--</property>-->
+    <!--</bean>-->
+
+</beans>
